@@ -1,2 +1,3 @@
 # Analysis-Survey-of-OTT-Viewership-in-Lockdown-
 The objective of this study is to propose a conceptual framework which attempts to analyse the factors of viewership during lockdown in India. Also, it identifies the factors such as watching experience of viewers will affect the future footfalls of cinema hall. Furthermore, it studies the various reasons of OTT content This study will help OTT players and cinema hall owner’s in designing strategies to overcome the OTT threat and also in identifying changing consumer needs, thereby helping them design offerings to suit their needs.
+Dashboard is created by using Power BI tool
